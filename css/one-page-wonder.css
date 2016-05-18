@@ -39,6 +39,9 @@ body {
     margin: 40px 0;
 }
 
+.featurette-divider-quienes {
+    margin: 20px 0;
+}
 .featurette {
     overflow: hidden;
 }
