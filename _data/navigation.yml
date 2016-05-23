@@ -1,0 +1,18 @@
+- title: Inicio
+  url: "/"
+  side: left
+
+- title: Quiénes Somos
+  url: "/quienes-somos/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Archivo"
+    url: "/blog/archive/"
+
+- title: "Buscar"
+  url: "/search/"
+  side: right
